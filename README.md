@@ -105,7 +105,7 @@ These projects are my official HyperionDev data science submissions, reviewed by
     <td>100%</td>
   </tr>
   <tr>
-    <td>OOP - Files</td>
+    <td>Capstone Project - Files</td>
     <td>Level 1</td>
     <td>94%</td>
   </tr>
@@ -120,7 +120,7 @@ These projects are my official HyperionDev data science submissions, reviewed by
     <td>100%</td>
   </tr>
   <tr>
-    <td>Django - NLP</td>
+    <td>Capstone Project - NLP</td>
     <td>Level 1</td>
     <td>100%</td>
   </tr>
@@ -157,33 +157,46 @@ These projects are my official HyperionDev data science submissions, reviewed by
 <img src="https://github.com/ChristiaanCronje/HyperionDev/blob/main/IGNORE/Headers/What%20Reviewers%20Say.svg" alt="What Reviewers Say" height="30px"/>
 
 - **Capstone Project - Variables and Control Structures**  
-  > Your function names follow Python conventions clearly and descriptively.  
-  > Using a helper function for input validation keeps the code DRY and maintainable.  
-  > Try-except blocks handle errors well, and the output formatting is clean and readable. Excellent work.  
-  >  
-  > — Mentor, HyperionDev
+  > Your code is well-structured, with clear comments and descriptive variable names, such as deposit_amount, which improves readability and documentation—well done!
 
-- **Capstone Project - Task Manager**  
-  > Excellent work demonstrating a strong understanding of the level's topics.  
-  > The task manager is user-friendly, robust, and handles input validation well.  
-  > Thoughtful use of third-party modules and proper dependency management included. Well done!  
-  >  
-  > — Mentor, HyperionDev
+- **Capstone Project - Files**  
+  > You’ve done well with this code and demonstrated your understanding of the Python fundamentals covered so far in this boot camp. You’ve applied concepts like loops, and conditional statements (if, elif, and else), and worked with external data sources like text
+  > files, lists, and strings.
+
+- **Capstone Project - Lists, Functions, and String Handling**  
+  > You have done exceptionally well on this task, showcasing a solid understanding of key concepts covered so far in the boot camp. These include functions, lists, strings, loops, working with external data sources, and conditional statements.
+
+- **Capstone Project - OOP**  
+  > Well done, Christiaan, on reaching the final Capstone Project for this Level 🙌
+  > The logic for different menu functionalities is neatly stored inside separate functions.
+  > I can confirm that all menu options execute successfully on my machine.
+
+- **Capstone Project - NLP**  
+  > Christiaan, your submission is well-researched and demonstrates a strong understanding of Natural Language Processing (NLP) and its applications. Your ability to match specific NLP models to different real-world scenarios showcases your deep comprehension of how
+  > NLP techniques can be effectively applied.
+<h1></h1><br>
 
 - **Capstone Project - Databases**  
-  > Great submission demonstrating effective CRUD operations and secure database handling.  
-  > The use of prepared statements prevents SQL injection, and error handling is thorough.  
-  > Clear comments and docstrings enhance the project's documentation. Well done!  
-  >  
-  > — Mentor, HyperionDev
+  > Fantastic work, Christiaan! You've built a clean, modular, and practical command-line SQL interface that demonstrates solid understanding of databases, query execution, and user interaction. The way you’ve structured your commands and output makes it
+  > intuitiveforusers to retrieve relevant student, course, and review data.
 
-- **Capstone Project - News Application**  
-  > Review pending: work in progress.
+- **Capstone Project - Data Analysis**  
+  > Thank you for your submission, Christiaan. It is good to note that you explored specific parameters in order to load the dataset into a pandas DataFrame. Well done for calling the lower(), strip() and replace() methods in order to sanitise the data stored within
+  > the 'country' column. Your use of regex and compound expressions is very good.
 
-- **Capstone Project - Consolidation**  
-  > Review pending: work in progress.
+- **Capstone Project - Data Visualisation**  
+  > Fantastic work on your resubmission, Christiaan! The depth of your data exploration is evident in the insightful information you have uncovered. The EDA reports you have produced are well structured and clearly present your findings, and the methods and processes
+  > you have followed.
+  > Well done for ensuring that the datasets were free from duplicate observations, free from inconsistent values and for handling missing values. You have narrowed down your analysis by removing all features that are not required within your analyses.
 
-<h1></h1><br>
+- **Capstone Project - Image Processing**  
+  > Thank you for your submission, Christiaan. You’ve done a great job showing how image classification works using the scikit-learn library. You’ve clearly explained each step, from loading the dataset and looking at its structure to training a Random Forest
+  > Classifier and checking how well it performs.
+
+- **Capstone Project - Unsupervised Machine Learning**  
+  > You have done a great job working through the PCA and clustering task, demonstrating both technical competence and analytical thinking. Your data exploration was thorough, you loaded the dataset correctly, inspected the first few entries, and checked for missing
+  > values and summary statistics. This shows a good understanding of the importance of initial data inspection. The use of histograms to visualise the distribution of variables was helpful and presented. Your correlation analysis using a heatmap was insightful, with
+  > accurate interpretations of the relationships between variables such as the positive correlation between assault and murder rates.
 
  <p align="center">
   <img width="15px" alt="Thank You!" title="Thank You!" src="https://github.com/ChristiaanCronje/HyperionDev/blob/main/IGNORE/Icons/Heart.png" />
