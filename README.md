@@ -47,6 +47,7 @@ These projects are my official HyperionDev data science submissions, reviewed by
 
 &#8287;**Data Analysis:**<br>
 &#8287;&#8287;• Pandas<br>
+&#8287;&#8287;• Scipy<br>
 &#8287;&#8287;• NumPy
 
 &#8287;**Data Visualisation:**<br>
@@ -57,6 +58,9 @@ These projects are my official HyperionDev data science submissions, reviewed by
 
 &#8287;**Machine Learning & AI:**<br>
 &#8287;&#8287;• Scikit-learn
+
+&#8287;**NLP:**<br>
+&#8287;&#8287;• Spacy
 </details>
 
 <details>
@@ -66,7 +70,7 @@ These projects are my official HyperionDev data science submissions, reviewed by
 &#8287;&#8287;• MySQL<br>
 &#8287;&#8287;• SQLite
 
-&#8287;**Data Sources**<br>
+&#8287;**Data Sources:**<br>
 &#8287;&#8287;• JSON<br>
 &#8287;&#8287;• XML
 </details>
@@ -79,6 +83,7 @@ These projects are my official HyperionDev data science submissions, reviewed by
 &#8287;&#8287;• Preprocessing<br>
 &#8287;&#8287;• Supervised Machine Learning<br>
 &#8287;&#8287;• Neural networks<br>  
+&#8287;&#8287;• NLP<br>  
 &#8287;&#8287;• Unsupervised Machine Learning
 
   
