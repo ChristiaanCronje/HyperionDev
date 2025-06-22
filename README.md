@@ -10,7 +10,7 @@
       <img width="40px" alt="LinkedIn" title="LinkedIn" src="https://github.com/ChristiaanCronje/HyperionDev/blob/main/IGNORE/Socials/LinkedIn.png"/>
     </a>
     &#8287;&#8287;
-    <a href="mailto:xandersteyn.dev@gmail.com">
+    <a href="mailto:christiaancronje90@gmail.com">
       <img width="40px" alt="Email" title="Email" src="https://github.com/ChristiaanCronje/HyperionDev/blob/main/IGNORE/Socials/Email.png"/>
     </a>
   </p>
