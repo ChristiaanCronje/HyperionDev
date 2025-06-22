@@ -60,7 +60,7 @@ These projects are my official HyperionDev data science submissions, reviewed by
 </details>
 
 <details>
-  <summary><strong>Databases:</strong></summary>
+  <summary><strong>Databases</strong></summary>
 
 &#8287;**Relational:**<br>
 &#8287;&#8287;• MySQL<br>
@@ -100,12 +100,22 @@ These projects are my official HyperionDev data science submissions, reviewed by
     <td>100%</td>
   </tr>
   <tr>
-    <td>OOP - Synthesis</td>
+    <td>OOP - Files</td>
+    <td>Level 1</td>
+    <td>94%</td>
+  </tr>
+  <tr>
+    <td>Capstone Project - Lists, Functions, and String Handling</td>
+    <td>Level 1</td>
+    <td>88%</td>
+  </tr>
+  <tr>
+    <td>Capstone Project - OOP</td>
     <td>Level 1</td>
     <td>100%</td>
   </tr>
   <tr>
-    <td>Capstone Project - Task Manager</td>
+    <td>Django - NLP</td>
     <td>Level 1</td>
     <td>100%</td>
   </tr>
@@ -115,19 +125,24 @@ These projects are my official HyperionDev data science submissions, reviewed by
     <td>100%</td>
   </tr>
   <tr>
-    <td>Django - Sticky Notes Application</td>
+    <td>Capstone Project - Data Analysis</td>
     <td>Level 2</td>
-    <td>In Progress</td>
+    <td>100%</td>
   </tr>
   <tr>
-    <td>Capstone Project - News Application</td>
+    <td>Capstone Project - Data Visualisation</td>
     <td>Level 2</td>
-    <td>In Progress</td>
+    <td>94%</td>
   </tr>
-  <tr>
-    <td>Capstone Project - Consolidation</td>
+    <tr>
+    <td>Capstone Project - Image Processing</td>
     <td>Level 3</td>
-    <td>In Progress</td>
+    <td>100%</td>
+  </tr>
+    <tr>
+    <td>Capstone Project - Unsupervised Machine Learning</td>
+    <td>Level 3</td>
+    <td>100%</td>
   </tr>
 </table>
 
