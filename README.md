@@ -174,7 +174,6 @@ These projects are my official HyperionDev data science submissions, reviewed by
 - **Capstone Project - NLP**  
   > Christiaan, your submission is well-researched and demonstrates a strong understanding of Natural Language Processing (NLP) and its applications. Your ability to match specific NLP models to different real-world scenarios showcases your deep comprehension of how
   > NLP techniques can be effectively applied.
-<h1></h1><br>
 
 - **Capstone Project - Databases**  
   > Fantastic work, Christiaan! You've built a clean, modular, and practical command-line SQL interface that demonstrates solid understanding of databases, query execution, and user interaction. The way you’ve structured your commands and output makes it
@@ -197,6 +196,8 @@ These projects are my official HyperionDev data science submissions, reviewed by
   > You have done a great job working through the PCA and clustering task, demonstrating both technical competence and analytical thinking. Your data exploration was thorough, you loaded the dataset correctly, inspected the first few entries, and checked for missing
   > values and summary statistics. This shows a good understanding of the importance of initial data inspection. The use of histograms to visualise the distribution of variables was helpful and presented. Your correlation analysis using a heatmap was insightful, with
   > accurate interpretations of the relationships between variables such as the positive correlation between assault and murder rates.
+
+<H1></H1><br>
 
  <p align="center">
   <img width="15px" alt="Thank You!" title="Thank You!" src="https://github.com/ChristiaanCronje/HyperionDev/blob/main/IGNORE/Icons/Heart.png" />
