@@ -18,21 +18,13 @@
 
 <img src="https://github.com/ChristiaanCronje/HyperionDev/blob/main/IGNORE/Headers/About%20Me.svg" alt="About Me" height="25px"/>
 
-I'm **Xander Steyn**, a software developer with **5+ years** of hands-on coding experience built on a strong foundation in **cybersecurity**.
-
-For five years, I immersed myself in **ethical hacking**, focusing on exposing vulnerabilities in real-world systems, flaws most developers never even see.  
-
-In 2025, I made a decisive shift, moving fully into **building software**.  
-Now, I apply everything I learned about breaking systems to engineer software that is **secure**, **scalable**, and **built to last**.
-
-> I don't just write code that works.  
-> I write code that **holds up**, because I know exactly what it looks like when it doesn't.
+Entry-level data scientist with practical experience from a coding bootcamp, where I built projects involving data cleaning, visualization, and machine learning. I've been programming since 2022, focusing on tools like Python, Pandas, scikit-learn, and SQL.
 
 <h1></h1>
 
 <img src="https://github.com/ChristiaanCronje/HyperionDev/blob/main/IGNORE/Headers/Why%20This%20Repository%20Exists.svg" alt="Why This Repository Exists" height="30"/>
 
-These projects are my official HyperionDev software engineering submissions, reviewed by mentors and shared with partner companies. Beyond assignments, this repository demonstrates what I consistently deliver independently and professionally.
+These projects are my official HyperionDev data science submissions, reviewed by mentors and shared with partner companies. Beyond assignments, this repository demonstrates what I consistently deliver independently and professionally.
 
 > Every file here is written, tested, and submitted by me with the same level of attention I bring to real-world software projects.
 
@@ -47,32 +39,23 @@ These projects are my official HyperionDev software engineering submissions, rev
 
 &#8287;**Languages:**<br>
 &#8287;&#8287;• Python<br>
-&#8287;&#8287;• C++<br>
-&#8287;&#8287;• SQL<br>
-&#8287;&#8287;• HTML<br>
-&#8287;&#8287;• CSS<br>
-&#8287;&#8287;• JavaScript<br>
-&#8287;&#8287;• PowerShell
+&#8287;&#8287;• SQL
 </details>
 
 <details>
-  <summary><strong>Frameworks & Libraries</strong></summary>
+  <summary><strong>Libraries</strong></summary>
 
-&#8287;**Web & App Development:**<br>
-&#8287;&#8287;• Django<br>
-&#8287;&#8287;• Flask<br>
-&#8287;&#8287;• Bootstrap<br>
-&#8287;&#8287;• Qt
-
-&#8287;**Data & Automation:**<br>
+&#8287;**Data Analysis:**<br>
 &#8287;&#8287;• Pandas<br>
+&#8287;&#8287;• NumPy
+
+&#8287;**Data Visualisation:**<br>
 &#8287;&#8287;• Matplotlib<br>
-&#8287;&#8287;• Requests<br>
-&#8287;&#8287;• BeautifulSoup<br>
-&#8287;&#8287;• Selenium
+&#8287;&#8287;• Seaborn<br>
+&#8287;&#8287;• Jupyter Notebook<br>
+&#8287;&#8287;• Tableau
 
 &#8287;**Machine Learning & AI:**<br>
-&#8287;&#8287;• TensorFlow<br>
 &#8287;&#8287;• Scikit-learn
 </details>
 
@@ -81,52 +64,24 @@ These projects are my official HyperionDev software engineering submissions, rev
 
 &#8287;**Relational:**<br>
 &#8287;&#8287;• MySQL<br>
-&#8287;&#8287;• PostgreSQL<br>
 &#8287;&#8287;• SQLite
 
-**NoSQL:**<br>
-&#8287;&#8287;• MongoDB
+&#8287;**Data Sources**<br>
+&#8287;&#8287;• JSON<br>
+&#8287;&#8287;• XML
 </details>
 
 <details>
-  <summary><strong>Tools & Platforms</strong></summary>
+  <summary><strong>Core Skills</strong></summary>
+&#8287;&#8287;• Data Visualisation<br>
+&#8287;&#8287;• Data Analysis<br>
+&#8287;&#8287;• Data Cleaning<br>
+&#8287;&#8287;• Preprocessing<br>
+&#8287;&#8287;• Supervised Machine Learning<br>
+&#8287;&#8287;• Neural networks<br>  
+&#8287;&#8287;• Unsupervised Machine Learning
 
-&#8287;**DevOps & Deployment:**<br>
-&#8287;&#8287;• Docker<br>
-&#8287;&#8287;• GitHub Actions<br>
-&#8287;&#8287;• Heroku<br>
-&#8287;&#8287;• AWS<br>
-&#8287;&#8287;• Nginx
-
-&#8287;**Development & Testing:**<br>
-&#8287;&#8287;• Git<br>
-&#8287;&#8287;• GitHub<br>
-&#8287;&#8287;• VS Code<br>
-&#8287;&#8287;• VirtualBox<br>
-&#8287;&#8287;• Linux<br>
-&#8287;&#8287;• PowerShell<br>
-&#8287;&#8287;• REST APIs<br>
-&#8287;&#8287;• unittest
-</details>
-
-<details>
-  <summary><strong>Security</strong></summary>
-
-&#8287;**Core Skills:**<br>
-&#8287;&#8287;• Ethical Hacking<br>
-&#8287;&#8287;• Penetration Testing<br>
-&#8287;&#8287;• Vulnerability Assessment<br>
-&#8287;&#8287;• Secure Coding
-
-&#8287;**Domains:**<br>
-&#8287;&#8287;• Network Security<br>
-&#8287;&#8287;• Application Security<br>
-&#8287;&#8287;• Cryptography<br>
-&#8287;&#8287;• Reverse Engineering
-
-&#8287;**Tools & Techniques:**<br>
-&#8287;&#8287;• IDS<br>
-&#8287;&#8287;• Malware Analysis
+  
 </details>
 
 <h1></h1>
